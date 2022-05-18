@@ -1,0 +1,143 @@
+Result of  5  runs for current config
+Crashes  :  2.0
+LC  :  0.86
+LCL  :  0.7
+LCR  :  0.16
+speed_dev  :  4.73
+eps_len  :  82.84
+ego_distance  :  2.81
+total_distance  :  41.4
+0.005 300 0.85 [264, 128, 64]
+Result of  5  runs for current config
+Crashes  :  2.6
+LC  :  27.85
+LCL  :  1.76
+LCR  :  26.09
+speed_dev  :  4.88
+eps_len  :  79.08
+ego_distance  :  2.68
+total_distance  :  39.8
+0.005 300 0.9 [264, 128, 64]
+Result of  5  runs for current config
+Crashes  :  2.2
+LC  :  5.72
+LCL  :  3.39
+LCR  :  2.33
+speed_dev  :  4.66
+eps_len  :  79.68
+ego_distance  :  2.72
+total_distance  :  39.6
+0.005 500 0.7 [500, 100]
+Result of  5  runs for current config
+Crashes  :  1.0
+LC  :  0.47
+LCL  :  0.36
+LCR  :  0.11
+speed_dev  :  5.38
+eps_len  :  85.59
+ego_distance  :  2.82
+total_distance  :  42.8
+0.005 500 0.85 [500, 100]
+Result of  5  runs for current config
+Crashes  :  3.6
+LC  :  0.88
+LCL  :  0.51
+LCR  :  0.37
+speed_dev  :  4.83
+eps_len  :  75.56
+ego_distance  :  2.57
+total_distance  :  38.2
+0.005 500 0.9 [500, 100]
+Result of  5  runs for current config
+Crashes  :  2.6
+LC  :  2.41
+LCL  :  1.44
+LCR  :  0.97
+speed_dev  :  4.73
+eps_len  :  78.71
+ego_distance  :  2.67
+total_distance  :  39.8
+0.005 300 0.7 [264, 64]
+Result of  5  runs for current config
+Crashes  :  1.2
+LC  :  0.04
+LCL  :  0.04
+LCR  :  0.0
+speed_dev  :  4.95
+eps_len  :  85.43
+ego_distance  :  2.84
+total_distance  :  42.8
+0.005 300 0.7 [500, 100]
+Result of  5  runs for current config
+Crashes  :  0.4
+LC  :  0.04
+LCL  :  0.04
+LCR  :  0.0
+speed_dev  :  5.62
+eps_len  :  87.79
+ego_distance  :  2.88
+total_distance  :  43.8
+0.005 300 0.85 [264, 64]
+Result of  5  runs for current config
+Crashes  :  2.8
+LC  :  1.15
+LCL  :  0.81
+LCR  :  0.33
+speed_dev  :  5.1
+eps_len  :  77.68
+ego_distance  :  2.62
+total_distance  :  39.0
+0.005 300 0.85 [500, 100]
+Result of  5  runs for current config
+Crashes  :  1.8
+LC  :  1.55
+LCL  :  0.61
+LCR  :  0.93
+speed_dev  :  4.38
+eps_len  :  83.08
+ego_distance  :  2.84
+total_distance  :  41.2
+0.005 300 0.9 [264, 64]
+Result of  5  runs for current config
+Crashes  :  2.0
+LC  :  3.11
+LCL  :  2.04
+LCR  :  1.07
+speed_dev  :  4.25
+eps_len  :  82.37
+ego_distance  :  2.83
+total_distance  :  41.4
+0.005 300 0.9 [500, 100]
+Result of  5  runs for current config
+Crashes  :  1.0
+LC  :  3.12
+LCL  :  1.92
+LCR  :  1.2
+speed_dev  :  4.03
+eps_len  :  86.0
+ego_distance  :  2.95
+LCR  :  0.01
+speed_dev  :  5.39
+eps_len  :  85.65
+ego_distance  :  2.84
+total_distance  :  42.8
+0.005 500 0.7 [264, 64]
+Result of  5  runs for current config
+Crashes  :  1.2
+LC  :  0.68
+LCL  :  0.55
+LCR  :  0.13
+speed_dev  :  5.66
+ego_distance  :  2.82
+total_distance  :  42.4
+0.005 500 0.85 [264, 64]
+Result of  5  runs for current config
+Crashes  :  0.8
+LC  :  4.62
+LCL  :  4.62
+LCR  :  0.0
+speed_dev  :  4.69
+eps_len  :  86.63
+ego_distance  :  2.92
+total_distance  :  43.4
+0.005 500 0.9 [264, 128, 64]
