@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Leurent"
-  given-names: "Edouard"
-title: "An Environment for Autonomous Driving Decision-Making"
-version: 1.4
-date-released: 2018-05-01
-url: "https://github.com/eleurent/highway-env"
+- family-names: "Alzubaidi"
+  given-names: "Ahmed"
+  orcid: "https://orcid.org/0000-0002-7313-5649"
+title: "Highway-env-rain"
+version: 1.0.0
+date-released: 2022-05-31
+url: "https://github.com/AmzTheory/Highway-env-rain"
